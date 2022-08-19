@@ -1,5 +1,6 @@
 # Reading Notes
 This website is to store the progress of software development-python course at LTUC.
+
 ## Code 102 - Intro to Software Development
 
 intro to __css__ __html__ __js__

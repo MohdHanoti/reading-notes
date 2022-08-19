@@ -1,18 +1,18 @@
 # Reading Notes
-This website is to store the progress of software development-python course at LTUC
-##Code 102 - Intro to Software Development
+This website is to store the progress of software development-python course at LTUC.
+## Code 102 - Intro to Software Development
 
 intro to __css__ __html__ __js__
 
-##Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
 intro to __css__ __html__ __js__
 
-##Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
 
 
-##Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
 
 
 

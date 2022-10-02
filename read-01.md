@@ -40,4 +40,4 @@ PyMOTW-3 is a series of articles written by Doug Hellmann to demonstrate how to 
 it has amazing content. check it out!
 https://pymotw.com/3/index.html
 
-done by mohammad alanoti
+done by mohammad alanouti

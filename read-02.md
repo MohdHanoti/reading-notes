@@ -14,13 +14,12 @@ Act: here you will execute the code being tested (exercise the behaviour);
 Assert: after executing the code, you will check if the result (output) is the same as you were expecting.
 
 ### The Cycle
-I hope at this time you didn’t give up of this text because this is an example of an important thing about TDD: the cycle.
 
 The cycle is made by three steps:
 
-🆘 Write a unit test and make it fail (it needs to fail because the feature isn’t there, right? If this test passes, call the Ghostbusters, really)
-✅ Write the feature and make the test pass! (you can dance after that)
-🔵 Refactor the code — the first version doesn’t need to be the beautiful one (don’t be shy)
+ Write a unit test and make it fail (it needs to fail because the feature isn’t there, right? If this test passes, call the Ghostbusters, really)
+ Write the feature and make the test pass! (you can dance after that)
+ Refactor the code — the first version doesn’t need to be the beautiful one (don’t be shy)
 
 [read more](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
 

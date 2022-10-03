@@ -17,6 +17,8 @@ intro to __css__ __html__ __js__
 
 [Class Read 01](./read-01.md)
 
+[Class Read 02](./read-02.md)
+
 
 
 

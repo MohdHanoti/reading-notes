@@ -29,5 +29,10 @@ intro to __css__ __html__ __js__
 
 [Class Read 07](./read-07.md)
 
+[Class Read 08](./read-08.md)
+
+[Class Read 09](./read-09.md)
+
+
 ### ***Done by mohammad alhanoti***
 [github](https://github.com/MohdHanoti)

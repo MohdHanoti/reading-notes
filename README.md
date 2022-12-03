@@ -51,7 +51,7 @@ intro to __css__ __html__ __js__
 
 [Class Read 19](./read-19.md)
 
-[Class Read 19](./read-22.md)
+[Class Read 22](./read-22.md)
 
 
 ### ***Done by mohammad alhanoti***
